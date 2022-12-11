@@ -2,11 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=UKBTDevelopments.com&style=for-the-badge&url=https%3A%2F%2Fukbtdevelopments.com)](https://ukbtdevelopments.com/)
 
-## I'm a Student and Streamer!!
-- 👋 Game and website development, and FiveM scripting,
-- 🌱 I'm currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and doing fitness / calisthenics / weightlifting
 
 ### Spotify Playing 🎧
 
