@@ -1,6 +1,6 @@
 ### Hi there, I'm Umut - aka [Perseus(Perso)][website] 👋
 
-[![Website](https://img.shields.io/website?label=UKBTDevelopments.com&style=for-the-badge&url=https%3A%2F%2Fukbtdevelopments.com)](https://ukbtdevelopments.com/)
+[![Website](https://img.shields.io/website?label=UMUTKAPLAN.COM&style=for-the-badge&url=https%3A%2F%2Fumutkaplan.com)](https://umutkaplan.com/)
 
 
 ### Spotify Playing 🎧
@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="UKBT Developments | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="UKBT Developments | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtubeukbt]
+[<img align="left" alt="Umut Kaplan | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Umut Kaplan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtubeukbt]
 [<img align="left" alt="Umut Kaplan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Umut Kaplan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Umut Kaplan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
