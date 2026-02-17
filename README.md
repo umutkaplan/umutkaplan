@@ -9,13 +9,6 @@ I'm a passionate Frontend Developer who loves building modern, responsive, and u
 
 [![Website](https://img.shields.io/website?label=UMUTKAPLAN.COM&style=for-the-badge&url=https%3A%2F%2Fumutkaplan.com)](https://umutkaplan.com/)
 
-
-[![](https://img.shields.io/badge/-YouTube-000000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/)
-[![](https://img.shields.io/badge/-YouTube-000000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/)
-[![](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=instagram&logoColor=white)](https://instagram.com/)
-
-
 <br />
 
 [![Behance](https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/perso)
