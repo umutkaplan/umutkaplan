@@ -9,11 +9,12 @@ I'm a passionate Frontend Developer who loves building modern, responsive, and u
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://umutkaplan.com)
 
-[<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" style="filter: invert(1);" />](https://umutkaplan.com)
-[<img align="left" alt="YouTube UKBT" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" style="filter: invert(1);" />](https://youtube.com/)
-[<img align="left" alt="Personal YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" style="filter: invert(1);" />](https://youtube.com/)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" style="filter: invert(1);" />](https://linkedin.com/)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" style="filter: invert(1);" />](https://instagram.com/)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=googlechrome&logoColor=white)](https://umutkaplan.com)
+[![YouTube UKBT](https://img.shields.io/badge/-YouTube-000000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/)
+[![Personal YouTube](https://img.shields.io/badge/-YouTube-000000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=instagram&logoColor=white)](https://instagram.com/)
+
 
 <br />
 
