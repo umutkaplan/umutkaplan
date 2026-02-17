@@ -89,5 +89,6 @@ I'm a passionate Frontend Developer who loves building modern, responsive, and u
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/umutkaplan) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/umutkaplan) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/umutkaplan) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/umutkaplan) 
 
-  
+  <hr>
+<p align="center">If you like it, do fork 🍴 and star ⭐</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
