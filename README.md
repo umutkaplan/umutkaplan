@@ -14,8 +14,7 @@
 
 # 💫 About Me:
 I'm a passionate Frontend Developer who loves building modern, responsive, and user-friendly web applications.<br>I enjoy working with JavaScript ecosystems and continuously improving my skills in web technologies.<br><br>🌱 Currently improving my full-stack development skills<br>💻 Focused on React & modern JavaScript<br>🎯 Goal: Building scalable and high-performance web apps<br>⚡ Fun fact: I love mixing creativity with code
-<hr>
-</hr>
+
 ## 🎧 Currently Playing on Spotify
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/)
