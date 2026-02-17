@@ -1,3 +1,17 @@
+<p align="center">
+ 
+</p align="center">
+<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
+
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/umutkaplan/umutkaplan"/> 
+ <img src="https://badges.pufler.dev/years/umutkaplan"/>
+ <img src="https://badges.pufler.dev/repos/umutkaplan"/>
+ <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+
+</p>
+
 # 💫 About Me:
 I'm a passionate Frontend Developer who loves building modern, responsive, and user-friendly web applications.<br>I enjoy working with JavaScript ecosystems and continuously improving my skills in web technologies.<br><br>🌱 Currently improving my full-stack development skills<br>💻 Focused on React & modern JavaScript<br>🎯 Goal: Building scalable and high-performance web apps<br>⚡ Fun fact: I love mixing creativity with code
 
