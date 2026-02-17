@@ -1,6 +1,6 @@
 # Hi there, I'm Umut Kaplan 👋  
 ### aka Perseus (Perso)
-
+---
 [![Website](https://img.shields.io/website?label=UMUTKAPLAN.COM&style=for-the-badge&url=https%3A%2F%2Fumutkaplan.com)](https://umutkaplan.com/)
 
 ---
