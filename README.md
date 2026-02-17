@@ -14,11 +14,11 @@
 
 # 💫 About Me:
 I'm a passionate Frontend Developer who loves building modern, responsive, and user-friendly web applications.<br>I enjoy working with JavaScript ecosystems and continuously improving my skills in web technologies.<br><br>🌱 Currently improving my full-stack development skills<br>💻 Focused on React & modern JavaScript<br>🎯 Goal: Building scalable and high-performance web apps<br>⚡ Fun fact: I love mixing creativity with code
-
+<hr>
 ## 🎧 Currently Playing on Spotify
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/)
-
+<hr>
 ## 🌐 Socials:
 
 [![Website](https://img.shields.io/website?label=UMUTKAPLAN.COM&style=for-the-badge&url=https%3A%2F%2Fumutkaplan.com)](https://umutkaplan.com/)
@@ -33,7 +33,7 @@ I'm a passionate Frontend Developer who loves building modern, responsive, and u
 [![Twitch](https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/perseushvh)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umutkaplanbusiness@gmail.com)
 
-
+<hr>
 # 💻 Tech Stack:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
