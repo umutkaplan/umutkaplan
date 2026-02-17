@@ -6,14 +6,25 @@ I'm a passionate Frontend Developer who loves building modern, responsive, and u
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/)
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/website?label=UMUTKAPLAN.COM&style=for-the-badge&url=https%3A%2F%2Fumutkaplan.com)](https://umutkaplan.com/)
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="YouTube UKBT" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtubeukbt]
-[<img align="left" alt="Personal YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/perso) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/perso) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r3umt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umutt) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@r3umt) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/perseushvh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umutkaplanbusiness@gmail.com) 
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://umutkaplan.com)
+
+[<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" style="filter: invert(1);" />](https://umutkaplan.com)
+[<img align="left" alt="YouTube UKBT" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" style="filter: invert(1);" />](https://youtube.com/)
+[<img align="left" alt="Personal YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" style="filter: invert(1);" />](https://youtube.com/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" style="filter: invert(1);" />](https://linkedin.com/)
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" style="filter: invert(1);" />](https://instagram.com/)
+
+<br />
+
+[![Behance](https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/perso)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/perso)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/r3umt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umutt)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@r3umt)
+[![Twitch](https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/perseushvh)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umutkaplanbusiness@gmail.com)
+
 
 # 💻 Tech Stack:
 
