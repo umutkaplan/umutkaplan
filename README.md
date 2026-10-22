@@ -15,9 +15,6 @@
 # 💫 About Me:
 I'm a passionate Frontend Developer who loves building modern, responsive, and user-friendly web applications.<br>I enjoy working with JavaScript ecosystems and continuously improving my skills in web technologies.<br><br>🌱 Currently improving my full-stack development skills<br>💻 Focused on React & modern JavaScript<br>🎯 Goal: Building scalable and high-performance web apps<br>⚡ Fun fact: I love mixing creativity with code
 
-## 🎧 Currently Playing on Spotify
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/)
 
 ## 🌐 Socials:
 
@@ -51,43 +48,10 @@ I'm a passionate Frontend Developer who loves building modern, responsive, and u
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=umutkaplan&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=umutkaplan&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=umutkaplan&show_icons=true" />
-</picture>
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=umutkaplan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=umutkaplan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=umutkaplan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 📊 GitHub Stats
-<details>
-  <summary>⚡ Click to view stats</summary>
-  <br />
-  <img alt="Umut Kaplan GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=umutkaplan&show_icons=true&hide_border=true" />
-</details>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=umutkaplan&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=umutkaplan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=umutkaplan&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/umutkaplan) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/umutkaplan) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/umutkaplan) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/umutkaplan) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/umutkaplan)
 
   <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
